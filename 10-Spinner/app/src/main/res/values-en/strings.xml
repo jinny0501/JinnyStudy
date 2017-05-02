@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">10-Spinner</string>
+    <string name="ok_button_text">View Result</string>
+    <string name="question">Please choose your favorite season.</string>
+</resources>

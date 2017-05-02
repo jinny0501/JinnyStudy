@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">10-Spinner</string>
+    <string name="question">좋아하는 계절을 선택하세요.</string>
+    <string name="ok_button_text">결과확인</string>
+</resources>

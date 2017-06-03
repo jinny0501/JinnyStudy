@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 눌러진 경우 표시될 이미지 -->
+    <item android:state_pressed="true" android:drawable="@drawable/home_over" />
+
+    <!-- 기본 상태에서 표시될 이미지 -->
+    <item android:drawable="@drawable/home_off" />
+</selector>
